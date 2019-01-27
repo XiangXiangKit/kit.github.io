@@ -1,0 +1,26 @@
+
+<style type="text/css">
+
+h1{font-family:fantasy;
+   font-size:50px;
+   margin:0px auto;
+   text-align:center;}
+
+div.h1{width:200px;
+       margin:10px auto;}
+
+body{margin:0px;}
+
+div.top{background-color:white;
+        height:50px;}
+
+.content{
+    background-color:white;
+    display:  flex;
+    align-items: center;
+    justify-content:center;
+    text-align:center;}
+
+
+
+</style>
